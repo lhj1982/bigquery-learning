@@ -1,0 +1,6 @@
+order_id,customer_id,event_date,amount,status
+o1,c1,2026-10-01,129.90,PAID
+o2,c1,2026-10-01,59.50,PAID
+o3,c2,2026-10-02,499.00,CANCELLED
+o4,c3,2026-10-02,215.75,PAID
+o5,c2,2026-10-03,89.00,PAID
